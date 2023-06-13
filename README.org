@@ -1,0 +1,10 @@
+* webapi
+
+CLOS-based wrapper builder for Web APIs.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/fukamachi/webapi.git   |
+| commit  | 848f333  |
+| systems | webapi |
+|---------+-------------------------------------------|
+
